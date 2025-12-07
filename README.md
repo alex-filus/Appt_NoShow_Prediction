@@ -19,7 +19,7 @@ This program processes appointment records from a CSV file and generates a detai
 1. Ensure Python 3.8 or higher is installed 
 
 2. Clone or download this project folder
- git clone <>
+ git clone <https://github.com/alex-filus/Appt_NoShow_Prediction>
 
  3. Place your appointment data file (CSV) in the project folder
 
